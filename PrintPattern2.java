@@ -1,0 +1,16 @@
+package Assignments_of_ContrlStmts;
+
+public class PrintPattern2 {
+	public static void main(String[] arg) {
+		for (int i = 5; i >= 1; i--) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+}
+		
+	
+
+
