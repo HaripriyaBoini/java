@@ -1,0 +1,1 @@
+This is a testFile.Its data havs to be read by a java program and put in another file
